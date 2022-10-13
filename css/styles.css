@@ -36,12 +36,13 @@ main {
           align-items: center;
   width: 300px;
   margin: 10px;
-  padding: 10px;
-  border-radius: 10px;
+  padding: 16px;
+  border-radius: 16px;
   background-color: hsl(0deg, 0%, 100%);
 }
 .cardQR__img {
-  width: 280px;
+  margin: 0;
+  width: 270px;
 }
 .cardQR__img img {
   width: 100%;
@@ -51,6 +52,8 @@ main {
   text-align: center;
 }
 .cardQR__text h3 {
+  margin-top: 10px;
+  margin-bottom: 0;
   font-weight: 700;
   color: hsl(218deg, 44%, 22%);
   font-size: 22px;
