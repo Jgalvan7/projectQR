@@ -21,7 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Project QR Code](https://github.com/Jgalvan7/challengeQR.github.io.git)
+- Solution URL: [Project QR Code](https://github.com/Jgalvan7/projectQR.git)
+- Live Site URL: [Project QR Code Online](https://jgalvandesign.com/frontendmento/project-qr/html/)
 
 ## My process
 
